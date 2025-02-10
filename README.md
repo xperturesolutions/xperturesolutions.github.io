@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-![Xperture Graphic Studio](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@xperturegraphicstudio)
+![Xperture Solutions](https://capsule-render.vercel.app/api?type=soft&color=auto&height=400&section=header&text=Build%20and%20Deploy&fontSize=90&animation=fadeIn&desc=@XpertureSolutions)
 
-Xperture graphic studio can help you create the website of your dreams. We offer scalable and commercially focused development services that are focused on the needs of the client and build a highly collaborative environment at your workplace, with our custom website and software development services. Store data securely, meet compliance requirements, and get more work done by building intranet sites for individual teams. 
+Xperture Solutions can help you create the website of your dreams. We offer scalable and commercially focused development services that are focused on the needs of the client and build a highly collaborative environment at your workplace, with our custom website and software development services. Store data securely, meet compliance requirements, and get more work done by building intranet sites for individual teams. 
 
 Bring Out the Best in your Business with Customized Software Solutions. Our experts thoroughly study and formulate strategies that work best for your business and help you succeed in the targeted market
  
@@ -37,12 +37,12 @@ We look forward to collaborating with like-minded developers in the future and w
 We map a strategy, build a solution or elevate your product experience with focused engagements available as standalone offerings or as a part of your project’s service stack. We work with reusability and readability in mind. we strive to create code that will endure through time. We approach the task at hand with curiosity and humility. This allows us to take roadblocks in stride, and savor opportunities to learn and absorb information which will help us build better next time.
 
  ### 📫 How to reach us: 
-- [LinkedIn](https://www.linkedin.com/company/xperture-inc/)
+- [LinkedIn](https://www.linkedin.com/company/xperture-solutions/)
 - [Email us](mailto:xpertureinc@gmail.com)
-- [Website](https://xperturegraphicstudio.github.io)
+- [Website](https://XpertureSolutions.github.io)
 - [Blogspot](https://xpertureinc.blogspot.com/)
-- [Instagram](https://www.instagram.com/xperture_inc/)
-- [Facebook](https://facebook.com/xpertureINC/)
+- [Instagram](https://www.instagram.com/xperturesolutions/)
+- [Facebook](https://facebook.com/xperturesolutions/)
 
 #### 💻 What Interests You:
 **We map a strategy, build a solution or elevate your product experience with focused engagements available as standalone offerings or as a part of your project’s service stack.**
@@ -58,11 +58,11 @@ We map a strategy, build a solution or elevate your product experience with focu
 *It needs energy and skill to deliver perfect web applications, and that’s in fact what you can and should assume from your web development team. With Absolve Tech, you move your product into excellent hands. You can be assured that the product team will strive for the highest quality of back-end as well as front-end experience.*
 
 #### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xperturegraphicstudio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XpertureSolutions&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-![](https://github-readme-stats.vercel.app/api?username=xperturegraphicstudio&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=XpertureSolutions&show_icons=true&theme=radical)
 ---
-[![](https://visitcount.itsvg.in/api?id=xperturegraphicstudio&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=XpertureSolutions&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <h2 align='center'><i>Languages and Tools</i></h2>
@@ -121,5 +121,5 @@ We map a strategy, build a solution or elevate your product experience with focu
 <hr> 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xperture&" alt="xperture" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xperturegraphicstudio&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XpertureSolutions&theme=gotham)](https://git.io/streak-stats)
 
